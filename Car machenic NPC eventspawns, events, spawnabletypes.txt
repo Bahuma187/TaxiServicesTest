@@ -1,0 +1,80 @@
+	<event name="ItemBody6">
+		<pos x="1630.75" z="2198.16" a="26.0" />
+	</event>
+
+
+
+    <event name="ItemBody6">
+            <nominal>4</nominal>
+            <min>4</min>
+            <max>4</max>
+            <lifetime>2500</lifetime>
+            <restock>1</restock>
+            <saferadius>0</saferadius>
+            <distanceradius>0</distanceradius>
+            <cleanupradius>200</cleanupradius>
+            <flags deletable="0" init_random="0" remove_damaged="1"/>
+            <position>fixed</position>
+            <limit>child</limit>
+            <active>1</active>
+            <children>
+                <child lootmax="0" lootmin="0" max="4" min="4" type="SurvivorF_Keiko"/>
+            </children>
+    </event>
+
+
+
+
+    <type name="SurvivorF_Keiko">
+    <attachments>
+        <item name="PipeWrench" />
+    </attachments>
+    <attachments>
+        <item name="PipeWrench" />
+    </attachments>
+    <attachments>
+        <item name="ConstructionHelmet_Orange" />
+    </attachments>
+    <attachments>
+        <item name="AliceBag_Green" />
+    </attachments>
+    <attachments>
+        <item name="CargoPants_Grey" />
+    </attachments>
+    <attachments>
+        <item name="Hoodie_Blue" />
+    </attachments>
+    <attachments>
+        <item name="AliceBag_Green" />
+    </attachments>
+    <attachments>
+        <item name="SparkPlug" />
+    </attachments>
+    <attachments>
+        <item name="CarRadiator" />
+    </attachments>
+    <attachments>
+        <item name="SparkPlug" />
+    </attachments>
+    <attachments>
+        <item name="SparkPlug" />
+    </attachments>
+    <attachments>
+        <item name="SparkPlug" />
+    </attachments>    
+    <attachments>
+        <item name="CarRadiator" />
+    </attachments>    
+    <attachments>
+        <item name="CarBattery" />
+    </attachments>
+    <attachments>
+        <item name="CanisterGasoline" />
+    </attachments>
+    <attachments>
+        <item name="Sedan_02_Wheel" />
+    </attachments>
+    <attachments>
+        <item name="Sedan_02_Wheel" />
+    </attachments>    
+    </type>
